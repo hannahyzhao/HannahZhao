@@ -1,12 +1,12 @@
 ---
-company: "Google"
-role: "Staff Software Engineer"
-dateStart: "11/27/2022"
+company: "Index Studios"
+role: "Founder"
+dateStart: "09/16/2021"
 dateEnd: "Now"
 ---
 
-Sit amet consectetur adipisicing elit. Iure illo neque tempora, voluptatem est quaerat voluptas praesentium ipsa dolorem dignissimos nulla ratione distinctio quae maiores eligendi nostrum? Quibusdam, debitis voluptatum, lorem ipsum dolor.
+Index Studios is an innovative interior and lifestyle brand based in China. Created and founded by Hannah Zhao, the collection explores impeccable designs through life experience and shares insight into life to build a connection with customers who share the same values. Respectful of minimalism, yet with an avant-garde touch, we show respect to our designers and customers and focus on the design and the quality of the products.
 
-- Aadipisicing elit. Iure illo neque tempora, voluptatem est.
+- Project Management. Iure illo neque tempora, voluptatem est.
 - dolorem dignissimos nulla ratione.
 - Quibusdam, debitis voluptatum, lorem ipsum dolor.

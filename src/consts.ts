@@ -43,7 +43,7 @@ export const LINKS: Links = [
   },
   { 
     TEXT: "Blog", 
-    HREF: "https://daleonai.com/machine-learning-for-sports", 
+    HREF: "/blog", 
   },
   { 
     TEXT: "Projects", 
