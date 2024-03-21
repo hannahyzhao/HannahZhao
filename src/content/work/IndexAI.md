@@ -1,11 +1,13 @@
 ---
-company: "Apple"
-role: "Software Engineer"
-dateStart: "01/01/2020"
-dateEnd: "11/27/2022"
+company: "IndexAI"
+role: "Co-Founder"
+dateStart: "09/16/2023"
+dateEnd: "Now"
 ---
 
-Voluptatem est quaerat voluptas praesentium ipsa dolorem dignissimos nulla ratione distinctio quae maiores eligendi nostrum? Quibusdam, debitis voluptatum, lorem ipsum dolor. Sit amet consectetur adipisicing elit. Iure illo neque tempora.
+Working with Machine Learning and Computer Vision experts to develop a solution for tennis beginners to intermediate.
 
-- Sit amet consectetur adipisicing elit. Iure illo neque tempora.
-- Quibusdam, debitis voluptatum, lorem ipsum
+- Product design.
+- Partnership with Google and in Google for Startups program.
+- In AO Startups to up scale our product.
+- Implement Video Intelligence API and Machine Learning Models.
