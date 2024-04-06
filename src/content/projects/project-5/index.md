@@ -1,31 +1,26 @@
 ---
-title: "Project Five"
+title: "Home Automation"
 summary: "Lorem ipsum dolor sit amet"
-date: "Mar 15 2022"
+date: "Aug 15 2018"
 draft: false
 tags:
 - React
-- Javascript
-- StyleX
+- Java
+- Node.js
+- PostgreSQL
+- Microsoft Azure
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. 
+"Home Automation" is an innovative mobile application designed to bring the convenience and efficiency of smart living directly to your fingertips. Built with the goal of simplifying daily routines, this app transforms your smartphone into a centralized control hub for all your smart home devices. Whether it's adjusting the thermostat, dimming the lights, or securing your doors, "Home Automation" offers a user-friendly interface that allows you to effortlessly manage your home's environment and security systems from anywhere, at any time. Designed for Android platforms, the app integrates seamlessly with a wide range of smart home technologies, ensuring compatibility and a harmonious smart home experience. With its intuitive design and robust functionality, "Home Automation" is not just an app, it's the key to a smarter, more connected, and energy-efficient home.
 
-Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. 
+GitHub Actions: for automating the software development process with continuous.
 
-Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. 
-Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+GitHub: for hosting and version control collaboration.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. 
+Bluetooth Low Energy (BLE): for short-range communication with smart devices, such as lighting, thermostats, and security systems, enabling seamless communication and control.
 
-Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. 
+Wi-Fi Direct: to directly connect to and communicate with compatible smart home devices without the need for an internet connection.
 
-Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. 
-Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+Microsoft Azure: to enable remote access, data synchronization, and advanced analytics.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. 
-
-Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. 
-
-Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. 
-Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+Figma: for designing the UI/UX before the actual development begins.
