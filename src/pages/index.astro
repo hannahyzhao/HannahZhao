@@ -54,7 +54,18 @@ const stack = [
   </div>
 
   <script is:inline src="/js/bg.js"></script>
-  
+  <script>
+      window.embeddedChatbotConfig = {
+      chatbotId: "xYrefDbKc5PM9MpTwoNio",
+      domain: "www.chatbase.co"
+      }
+  </script>
+  <script
+      src="https://www.chatbase.co/embed.min.js"
+      chatbotId="xYrefDbKc5PM9MpTwoNio"
+      domain="www.chatbase.co"
+      defer>
+  </script>
   <!-- HERO -->
   <section class="relative h-screen w-full">
     <div id="planetcont" class='animate absolute inset-0 top-1/4 overflow-hidden'>
@@ -204,16 +215,5 @@ const stack = [
       </section>
     </div>
   </div>
-<:script>
-  const embeddedChatbotConfig = {
-    chatbotId: "xYrefDbKc5PM9MpTwoNio",
-    domain: "www.chatbase.co"
-  }
-</:script>
-<:script
-  src="https://www.chatbase.co/embed.min.js"
-  chatbotId="xYrefDbKc5PM9MpTwoNio"
-  domain="www.chatbase.co"
-  defer
-/>
+
 </PageLayout>
