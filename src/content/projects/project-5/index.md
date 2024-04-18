@@ -9,6 +9,8 @@ tags:
 - Node.js
 - PostgreSQL
 - Microsoft Azure
+demoUrl: https://astro-sphere-demo.vercel.app
+repoUrl: https://github.com/HannahYZhao/HomeAutomation
 ---
 
 "Home Automation" is an innovative mobile application designed to bring the convenience and efficiency of smart living directly to your fingertips. Built with the goal of simplifying daily routines, this app transforms your smartphone into a centralized control hub for all your smart home devices. Whether it's adjusting the thermostat, dimming the lights, or securing your doors, "Home Automation" offers a user-friendly interface that allows you to effortlessly manage your home's environment and security systems from anywhere, at any time. Designed for Android platforms, the app integrates seamlessly with a wide range of smart home technologies, ensuring compatibility and a harmonious smart home experience. With its intuitive design and robust functionality, "Home Automation" is not just an app, it's the key to a smarter, more connected, and energy-efficient home.
