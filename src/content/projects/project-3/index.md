@@ -1,12 +1,13 @@
 ---
-title: "Project Three"
-summary: "Lorem ipsum dolor sit amet"
-date: "Mar 16 2022"
+title: "Mood Tracker"
+summary: "University of Melbourne Team Project"
+date: "Oct 31 2022"
 draft: false
 tags:
-- Vue
-- Javascript
-- Tailwind
+- Java
+- OpenCV
+- TensorFlow
+- Firebase
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+The Mood Tracker app is an innovative Android mobile application designed to enhance emotional well-being by recognizing a user's current mood through facial recognition technology. Upon scanning a user’s selfie, the app employs advanced mood recognition algorithms to accurately identify the user's emotional state. Based on the detected mood, the app then suggests a variety of activities tailored to improve the user's emotional health. These activities range from listening to music and watching motivational videos to engaging in mindfulness exercises and physical activities, all aimed at promoting a positive change in mood.

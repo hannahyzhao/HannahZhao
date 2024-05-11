@@ -1,5 +1,5 @@
 ---
-title: "Trave lWise"
+title: "Travel Wise"
 summary: "AI travel assistant"
 date: "Nov 17 2023"
 draft: false
