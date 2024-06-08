@@ -1,31 +1,19 @@
 ---
-title: "Project Four"
-summary: "Lorem ipsum dolor sit amet"
-date: "Mar 15 2022"
+title: "Unimelb Reviewer"
+summary: "An Academic paper reviewer to help editors ease the work of reviewers"
+date: "June 1 2024 on going"
 draft: false
 tags:
-- React
-- Javascript
-- StyleX
+- Node.js
+- RAG
+- Huggingface
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. 
+Version 1:
+The "Academic Paper Reviewer System" is a cutting-edge project developed in collaboration with the University of Melbourne and IBM, aimed at revolutionizing the academic peer review process. This system automates the review of submitted publications, easing the workload on human reviewers and ensuring thorough, unbiased evaluations. The review process is divided into two main components: criteria-based reviews and machine learning-based assessments. The criteria-based review component employs specialized agents, each focusing on a specific aspect of the paper. For instance, the Grammar Agent scrutinizes the text for grammatical accuracy, suggesting necessary corrections and improvements, while the Innovation Level Agent assesses the novelty and originality of the research, identifying unique contributions and potential impacts. Other agents, such as the Citation Agent, Structure Agent, and Relevance Agent, evaluate citations' adequacy, the paper's logical coherence, and its relevance to the journal's scope, respectively. These agents work synergistically to provide comprehensive insights into each submitted paper.
 
-Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. 
+The second component of the system leverages machine learning to offer an overall assessment of the paper's quality. By training a model on a dataset of high-quality and low-quality publications, the system can effectively distinguish between well-written, impactful papers and those that may need significant revisions. This machine learning-based review considers various factors, including writing style, content depth, research methodology, and overall impact, ensuring a thorough and nuanced evaluation. The technology stack for this project includes advanced tools such as Retrieval-Augmented Generation (RAG) for contextually relevant feedback, IBM Watson for natural language processing and machine learning capabilities, and Hugging Face models like Microsoft's Phi-3-mini-128k-instruct for sophisticated language understanding and generation tasks. Core programming and development utilize Python, with frameworks like TensorFlow and PyTorch for model development and training.
 
-Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. 
-Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+Supporting technologies such as Apache Kafka for real-time data streaming, MongoDB for data storage, and Docker/Kubernetes for scalable deployment ensure the system's robustness and efficiency. Web frameworks like Flask or Django will be used to build the application interface and backend services. This project promises significant benefits: it automates the review process, significantly reducing the time and effort required by human reviewers, and provides consistent, unbiased evaluations based on predefined criteria and trained models. The detailed and comprehensive feedback helps authors improve their work, maintaining high publication standards, and the system's scalability makes it suitable for journals and conferences of all sizes.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. 
-
-Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. 
-
-Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. 
-Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. 
-
-Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. 
-
-Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. 
-Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+Additionally, future work may explore the integration of Convex.dev's AI Town for advanced AI-driven interactions, further enhancing the system's capabilities and user experience. The "Academic Paper Reviewer System" represents a significant leap forward in academic publishing, leveraging cutting-edge technology to streamline and improve the peer review process. With the combined expertise of the University of Melbourne and IBM, this project aims to set a new standard in academic publication, ensuring efficient, consistent, and insightful reviews that benefit both authors and reviewers alike.
