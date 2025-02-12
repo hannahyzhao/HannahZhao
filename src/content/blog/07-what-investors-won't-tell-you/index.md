@@ -1,7 +1,7 @@
 ---
 title: "What Tech Founders & Investors Won’t Tell You — Especially in AI"
 summary: "Why winning users is easier than winning investors, and what really matters in AI startups."
-date: "2025-02-12"
+date: "Feb 12 2025"
 draft: false
 tags:
 - Startup
