@@ -1,7 +1,7 @@
 ---
 title: "Unimelb Reviewer"
 summary: "An Academic paper reviewer to help editors ease the work of reviewers"
-date: "June 1 2024 on going"
+date: "June 1 2024"
 draft: false
 tags:
 - Node.js
