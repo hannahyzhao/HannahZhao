@@ -6,7 +6,6 @@ draft: false
 tags:
 - Tutorial
 - Astro
-- Astro Sphere
 ---
 
 A one line summary of what each file and directory is for:

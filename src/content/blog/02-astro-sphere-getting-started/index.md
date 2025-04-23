@@ -6,7 +6,7 @@ draft: false
 tags:
 - Tutorial
 - Astro
-- Astro Sphere
+
 ---
 
 Astro Sphere is designed to be configurable. This article will cover the basics on

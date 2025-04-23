@@ -6,7 +6,7 @@ draft: false
 tags:
 - Tutorial
 - Astro
-- Astro Sphere
+
 ---
 ### Basics
 
