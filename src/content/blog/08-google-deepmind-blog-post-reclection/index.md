@@ -6,7 +6,7 @@ draft: false
 tags:
 - AI
 - Leadership
-- Startups
+- Startup
 ---
 
 Recently, I read an interview with Seong-Hyun Hwang, former Head of HR at Google Brain and now CEO of Quantum Insight. His research into why Chinese, Japanese, and Korean (CJK) professionals rarely rise to executive roles in Silicon Valley hit close to home—especially as an AI founder with a technical background navigating both startup building and cross-cultural leadership.
