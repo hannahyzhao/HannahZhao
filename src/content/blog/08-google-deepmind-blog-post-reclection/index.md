@@ -1,54 +1,59 @@
 ---
-title: "What Tech Founders & Investors Won’t Tell You — Especially in AI"
-summary: "Why winning users is easier than winning investors, and what really matters in AI startups."
-date: "Feb 12 2025"
+title: "Why East Asians Rarely Become Silicon Valley Executives — And What It Means for Founders"
+summary: "Reflections from Google Brain’s former HR lead on culture, leadership, and what East Asian founders need to understand to thrive."
+date: "Apr 23 2025"
 draft: false
 tags:
-- Startup
 - AI
-- Investment
+- Leadership
+- Startups
 ---
 
-In the AI space, many investors and founders emphasize that “technology is everything.” But if you take this at face value, you might be missing the bigger picture. Technology alone is not the real competitive advantage—it’s just the entry ticket. What truly determines a tech startup’s success is the ability to translate technology into a valuable product that wins the market.
+Recently, I read an interview with Seong-Hyun Hwang, former Head of HR at Google Brain and now CEO of Quantum Insight. His research into why Chinese, Japanese, and Korean (CJK) professionals rarely rise to executive roles in Silicon Valley hit close to home—especially as an AI founder with a technical background navigating both startup building and cross-cultural leadership.
 
-### The Illusion of "Technology is Everything"
+### The “Cultural Code” That Holds East Asians Back
 
-Take Ilya Sutskever’s new AI company: No product, no users, no revenue—yet it secured a $200B valuation. Why? Not because of technology itself, but because of credibility and trust—his OpenAI background and strong investor connections. 
+Despite dominating engineering orgs, East Asians are underrepresented at the leadership level in tech. Hwang outlined **three core cultural habits** that explain why:
 
-The takeaway? “Technology is important” really means that your track record matters. If you don’t have the backing of elite investors, it’s nearly impossible to raise money based on technical potential alone.
+1. **Deference to Authority**  
+   Many CJK professionals grow up learning to "follow instructions" and deliver results—not challenge the system. But in fast-growth environments like startups, leadership demands initiative, bold vision, and personal ownership, not just execution.
 
-### Winning Users vs. Winning Investors
+2. **Relationship Building Gaps**  
+   Western corporate culture tends to value *warmth before competence*. East Asians are often perceived as cold or distant, even when they’re highly capable—this unintentional image makes it harder to be seen as leadership material.
 
-For most startups, winning customers is easier than attracting investors. Investors don’t fund ideas; they fund traction, market dominance, and credibility. You’re not just competing on technology—you’re competing on narrative, vision, and execution.
+3. **Avoiding Vulnerability**  
+   “Saving face” prevents many from showing weakness or asking for help. But in a world where innovation depends on feedback, transparency, and iteration, hiding uncertainty is a silent career killer.
 
-A common mistake among technical founders is focusing too much on building and not enough on selling. If no one on your team has sold to customers or negotiated with investors, your product is likely to fail, no matter how advanced it is. 
+### My Reflection as a Founder
 
-### Steve Jobs & First Principles Thinking
+As someone who’s built AI products from computer vision systems to mobile coaching apps, I’ve experienced firsthand the tension between **engineering excellence and leadership adaptability**.
 
-Steve Jobs famously said:  
-*"Consumers don’t know what they want until we show it to them."*  
+I've met the "10x developers"—people whose coding or memory speed is inhuman. But I’ve also seen how those same individuals struggle with insomnia, emotions, or collaboration. These people need a tailored environment—not a standard performance model. I think about this often as I design teams and build culture around not just productivity, but **sustainable excellence**.
 
-This doesn’t mean he ignored user needs. Instead, he believed traditional user research couldn’t drive breakthrough innovation. He focused on understanding fundamental human desires and used minimalist, elegant design to deliver solutions that felt intuitive.
+I’ve also been fortunate. My upbringing combined **open-minded East Asian values** with **Western educational freedom**. Studying abroad, surviving hardship, and building companies in cross-cultural contexts gave me resilience and perspective. These are my privileges, and I own them.
 
-His approach wasn’t about asking users what they wanted—it was about anticipating their needs before they even realized them. He leveraged technology trends, user behavior, intuition, and aesthetics to create experiences that exceeded expectations.
+### What It Means for Other Founders & Investors
 
-### Founder Conflicts: CEO vs. CTO
-In any startup, CEOs focus on growth, while CTOs focus on tech. This tension is natural but can become a major bottleneck if the CTO prioritizes engineering perfection over product-market fit. The risks include:
-- Failure to ship a viable product because the team is too focused on perfecting the tech.
-- Delays in launching an MVP while competitors capture the market first.
-- Wasted resources on over-engineering instead of addressing real user pain points.
+If you're a founder like me:
 
-#### How to Bridge the CEO-CTO Gap:
-1. Clearly define roles: The CEO drives market strategy and product execution, while the CTO ensures technical feasibility. Tech should serve the product, not dictate it.
-2. Prioritize speed over perfection: Focus on launching an MVP and iterating based on real user feedback rather than waiting for the “perfect” solution.
-3. Make data-driven decisions: Show your CTO user engagement, retention metrics, and customer insights—not just code and architecture—so technical decisions align with business goals.
+- **You’re not here to be perfect.** You’re here to be real, adaptive, and resilient.
+- **Your superpower isn’t just tech—it’s your ability to learn, lead, and build trust.**
+- **Being vulnerable isn’t weak.** It’s the foundation of innovation and honest collaboration.
 
-### Key Takeaways for Founders:
+If you’re an investor:
 
-- **Credibility matters more than raw technology.** Without a strong track record, fundraising is difficult.
-- **User adoption is easier than investor adoption.** A great product attracts users, which in turn attracts investors.
-- **Execution beats ideas.** Most startup ideas aren’t original—what matters is how well you execute.
-- **Technical founders should think beyond code.** Sales, marketing, and storytelling are just as important.
-- **First principles thinking + great design = winning products.** Solve problems at their core while delivering a seamless user experience.
+- **Look beyond polish.** Some of the strongest founders don’t look or act like a typical pitch deck.
+- **Support culturally diverse leadership.** The talent is there—it just needs a platform and mentorship that fits.
 
-If you’re building an AI startup, focus on winning customers first. Investors follow the traction—not the other way around.
+### Final Thoughts: Dream Bigger
+
+Hwang ended the interview with a call for younger generations to dream more boldly. I echo that. Especially in AI, where tools are powerful but narratives shape reality.
+
+**So here’s my message to fellow founders:**
+Don’t shrink to fit an old mold. Be the kind of founder you never had growing up. Build something that not only works—but matters.
+
+Let your startup reflect your story, your resilience, and your vision.
+
+And remember—*execution beats everything, but authenticity scales faster than code.*
+
+
