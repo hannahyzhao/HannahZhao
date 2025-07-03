@@ -1,5 +1,5 @@
 ---
-company: "IndexAI"
+company: "Index AI"
 role: "Co-Founder"
 dateStart: "09/16/2023"
 dateEnd: "Now"
