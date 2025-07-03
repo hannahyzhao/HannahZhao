@@ -178,6 +178,27 @@ declare module 'astro:content' {
   collection: "blog";
   data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
+"07-what-investors-won't-tell-you/index.md": {
+	id: "07-what-investors-won't-tell-you/index.md";
+  slug: "07-what-investors-wont-tell-you";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
+"08-google-deepmind-blog-post-reclection/index.md": {
+	id: "08-google-deepmind-blog-post-reclection/index.md";
+  slug: "08-google-deepmind-blog-post-reclection";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
+"09-exercise-learning-and-brain-performance/index.md": {
+	id: "09-exercise-learning-and-brain-performance/index.md";
+  slug: "09-exercise-learning-and-brain-performance";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
 };
 "legal": {
 "privacy.md": {
