@@ -6,7 +6,7 @@ draft: false
 tags:
 - Tutorial
 - Astro
-- Astro Sphere
+
 ---
 
 Astro Sphere comes preconfigured with social media links for Email, Github, Linked In and Twitter (X), but it's very easy to add more.
