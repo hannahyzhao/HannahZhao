@@ -4,7 +4,7 @@ summary: "You'll find these directories and files in the project. What do they d
 date: "Mar 17 2024"
 draft: false
 tags:
-- Tutorial
+
 - Astro
 ---
 
