@@ -139,8 +139,7 @@ Over the past 10 years, I’ve consistently achieved what I set out to do. Cultu
 Now, I stay grounded, keep expectations realistic, and focus on what really matters. I don’t rely on external validation—and I trust myself deeply.
 I’ve learned that doing the work I love, with humility and intention, speaks louder than anything else.
 
-Most of what I design resonates—even without paid marketing—and that’s because it comes from a place of purpose, not pressure.
+Most of what I design/build resonates—even without paid marketing—and that’s because it comes from a place of purpose, not pressure.
 
-Most of what I design resonates—even without paid marketing—and that’s because it comes from a place of purpose, not pressure.
 
 *Published by Hannah Zhao*
