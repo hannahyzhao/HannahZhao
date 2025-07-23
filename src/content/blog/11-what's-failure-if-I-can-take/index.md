@@ -5,7 +5,7 @@ date: "Jul 22 2025"
 draft: false
 tags:
   - Psychology
-  - Startups
+  - Startup
 ---
 **July 22, 2025**
 

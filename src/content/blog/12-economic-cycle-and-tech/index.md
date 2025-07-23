@@ -6,7 +6,7 @@ draft: false
 tags:
   - AI
   - Investment
-  - Startups
+  - Startup
 ---
 
 ## What Happened in 1930–1945?
