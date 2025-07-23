@@ -6,7 +6,6 @@ draft: false
 tags:
   - Psychology
   - Startups
-  - Growth Mindset
 ---
 **July 22, 2025**
 
