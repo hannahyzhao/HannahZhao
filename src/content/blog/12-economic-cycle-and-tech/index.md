@@ -1,7 +1,7 @@
 ---
 title: "Ray Dalio: What 1930–1945 Teaches Us About the Current Economic Cycle"
 summary: "History echoes louder than we think. As we enter a period resembling 1930–1945, what can founders, investors, and individuals learn? This post explores economic cycles, the role of AI, and how to position yourself in a time of systemic transformation."
-date: "Jul 22 2025"
+date: "Jul 23 2025"
 draft: false
 tags:
   - AI
@@ -9,7 +9,7 @@ tags:
   - Startups
 ---
 
-## 🕰️ What Happened in 1930–1945?
+## What Happened in 1930–1945?
 
 This period marked a **major global transformation**, shaped by:
 
@@ -27,7 +27,7 @@ This period marked a **major global transformation**, shaped by:
 
 ---
 
-## ✅ Why Ray Dalio Says "Today Feels Like the 1930s"
+## Why Ray Dalio Says "Today Feels Like the 1930s"
 
 According to Dalio, the current moment reflects **the late stage of a long-term debt cycle**, with these parallels:
 
@@ -40,7 +40,7 @@ In Dalio’s view, these signals mirror the chaos of the 1930s and foreshadow a 
 
 ---
 
-## 🧭 Macro Outlook: My View as a Founder + Investor
+## Macro Outlook: My View as a Founder + Investor
 
 We are living through **a convergence of multiple cycles**:
 
@@ -53,7 +53,7 @@ We are living through **a convergence of multiple cycles**:
 
 ---
 
-## 🧠 The Role of Technology in Economic Cycles
+## The Role of Technology in Economic Cycles
 
 ### 1. Tech isn’t a cushion—it’s a reset button
 
@@ -73,16 +73,16 @@ AI is not just a tool—it’s the **electricity of the brain**, replacing or en
 
 ---
 
-## 📈 Where I'm Investing
+## Where I'm Investing
 
-### 🌱 What Industries?
+### What Industries?
 
 - **AI infrastructure & vertical applications**  
 - **Smart manufacturing & robotics**  
 - **Bio-AI (e.g., protein folding, genetic engineering)**  
 - **Clean energy systems & renewables**
 
-### 🏢 What Kind of Companies?
+### What Kind of Companies?
 
 - **Early-stage teams** with traction & speed  
 - **Cash-efficient models** that can weather macro volatility  
@@ -90,7 +90,7 @@ AI is not just a tool—it’s the **electricity of the brain**, replacing or en
 
 ---
 
-## 🚶 How Can Ordinary People Ride the Wave?
+## How Can Ordinary People Ride the Wave?
 
 1. **Stop chasing trends—study structural logic**  
    Understand how tech *reshapes* entire industries, not just how it “adds efficiency.”
@@ -106,7 +106,7 @@ AI is not just a tool—it’s the **electricity of the brain**, replacing or en
 
 ---
 
-## 🧩 Final Thoughts
+## Final Thoughts
 
 > "Every time a major cycle ends, the world looks like it's collapsing.  
 > Every time a tech revolution begins, it looks like a fringe game."
@@ -116,6 +116,30 @@ Right now, **we stand at both thresholds**.
 If you can ignore the noise and build for the future, this may be the **single best moment in your life** to start something meaningful.
 
 If you wait for things to return to “normal,” you’ll miss the very reset that redefines the next 50 years.
+
+References:
+
+https://www.masterclass.com/series/mastering-the-markets
+
+“The Cycle” — Howard Marks
+
+“The Unavoidable Economic Cycle (Vol. 1 & 2)” — Lars Tvede
+
+“MegaThreats: The World's Most Dangerous Trends and How to Survive Them” — Nouriel Roubini (Dr. Doom)
+
+“The General Theory of Employment, Interest and Money” — John Maynard Keynes
+
+“How the Economic Machine Works” — Ray Dalio
+
+“Where Are the Four Major Economic Cycles Now?” — Caitong Securities (China)
+
+“U.S. Economic Data and Indicators” — The Global Economy
+
+“Japan’s Employment Ice Age: A Generation Left Behind” — Huxiu
+
+“Dr. Doom” — The New York Times profile on Nouriel Roubini
+
+“The Six Economists Who Predicted the Global Financial Crisis” — intheblack.com
 
 ---
 

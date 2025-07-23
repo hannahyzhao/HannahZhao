@@ -23,7 +23,7 @@ It hit me that somewhere deep inside, there's a fear not of failure itself, but 
 In the end, I still believe this: **what others think doesn’t matter.**  
 You can be free if you choose to do what you love.
 
-## 🔍 What is Failure? (In General)
+## What is Failure? (In General)
 
 ### 1. Definition of Failure
 
@@ -55,7 +55,7 @@ Failure often triggers emotions like shame, fear, disappointment, or grief. But 
 
 ---
 
-## 🚀 What is Failure in Startups?
+## What is Failure in Startups?
 
 Startups operate in high-risk, high-uncertainty environments. Here, **failure isn’t unusual—it’s expected**.
 
@@ -108,7 +108,7 @@ Modern startup culture reframes failure as:
 
 ---
 
-## 🧠 Summary Table
+## Summary Table
 
 | Context      | Failure Means                                    | Deeper Interpretation                         |
 |--------------|--------------------------------------------------|-----------------------------------------------|
@@ -119,7 +119,7 @@ Modern startup culture reframes failure as:
 
 ---
 
-## 💭 Closing Thoughts
+## Closing Thoughts
 
 Failure is messy, emotional, and often misunderstood.
 
