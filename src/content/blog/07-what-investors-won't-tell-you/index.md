@@ -6,7 +6,6 @@ draft: false
 tags:
 - Startup
 - AI
-- Investment
 ---
 
 In the AI space, many investors and founders emphasize that “technology is everything.” But if you take this at face value, you might be missing the bigger picture. Technology alone is not the real competitive advantage—it’s just the entry ticket. What truly determines a tech startup’s success is the ability to translate technology into a valuable product that wins the market.

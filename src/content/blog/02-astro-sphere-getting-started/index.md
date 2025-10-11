@@ -4,7 +4,7 @@ summary: "You've downloaded and installed the project. Let's hit the ground runn
 date: "Mar 16 2024"
 draft: false
 tags:
-- Astro
+
 ---
 
 Astro Sphere is designed to be configurable. This article will cover the basics on

@@ -5,7 +5,7 @@ date: "Mar 17 2024"
 draft: false
 tags:
 
-- Astro
+
 ---
 
 A one line summary of what each file and directory is for:

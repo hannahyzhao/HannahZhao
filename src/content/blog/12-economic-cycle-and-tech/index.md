@@ -5,7 +5,6 @@ date: "Jul 23 2025"
 draft: false
 tags:
   - AI
-  - Investment
   - Startup
 ---
 

@@ -4,7 +4,6 @@ summary: "Failure isn’t the end—it’s often the beginning. A deep dive into
 date: "Jul 22 2025"
 draft: false
 tags:
-  - Psychology
   - Startup
 ---
 **July 22, 2025**

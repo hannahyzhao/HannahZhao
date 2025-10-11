@@ -4,8 +4,7 @@ summary: "Learn how to maximize your brain power and learning ability using scie
 date: "July 3 2025"
 draft: false
 tags:
-- Performance
-- Productivity
+- Neuroscience
 ---
 
 If you care about long-term performance as a founder or builder, mastering your energy and focus isn’t optional—it’s foundational. One of the most powerful (yet underrated) tools? **Exercise.** Neuroscience now shows that physical activity doesn’t just shape your body—it rewires your brain.

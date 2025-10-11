@@ -5,7 +5,6 @@ date: "Jul 4 2025"
 draft: false
 tags:
   - Neuroscience
-  - Performance
 demoUrl: https://open.spotify.com/episode/5krOCUTUMtnHByzTGw8nhQ?si=nCih4bISTK2F-jKOOYGAvg
 repoUrl: https://github.com/hannahyzhao/elevenlab-podcast-notes
 ---
