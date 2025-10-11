@@ -15,9 +15,9 @@ export default function Blog({ data, tags }: Props) {
   createEffect(() => {
     setPosts(data.filter((entry) => 
       Array.from(filter()).every((value) => 
-        entry.data.tags.some((tag:string) => 
+        entry.data.tags?.some((tag: string) => 
           tag.toLowerCase() === String(value).toLowerCase()
-        )
+        ) ?? false
       )
     ))
   })

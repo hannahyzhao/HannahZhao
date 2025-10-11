@@ -136,65 +136,51 @@ declare module 'astro:content' {
 
 	type ContentEntryMap = {
 		"blog": {
-"01-astro-sphere-file-structure/index.md": {
-	id: "01-astro-sphere-file-structure/index.md";
-  slug: "01-astro-sphere-file-structure";
+"01-what-investors-won't-tell-you/index.md": {
+	id: "01-what-investors-won't-tell-you/index.md";
+  slug: "01-what-investors-wont-tell-you";
   body: string;
   collection: "blog";
   data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
-"02-astro-sphere-getting-started/index.md": {
-	id: "02-astro-sphere-getting-started/index.md";
-  slug: "02-astro-sphere-getting-started";
+"02-google-deepmind-blog-post-reclection/index.md": {
+	id: "02-google-deepmind-blog-post-reclection/index.md";
+  slug: "02-google-deepmind-blog-post-reclection";
   body: string;
   collection: "blog";
   data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
-"03-astro-sphere-add-new-post-or-projects/index.md": {
-	id: "03-astro-sphere-add-new-post-or-projects/index.md";
-  slug: "03-astro-sphere-add-new-post-or-projects";
+"03-exercise-learning-and-brain-performance/index.md": {
+	id: "03-exercise-learning-and-brain-performance/index.md";
+  slug: "03-exercise-learning-and-brain-performance";
   body: string;
   collection: "blog";
   data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
-"04-astro-sphere-writing-markdown/index.md": {
-	id: "04-astro-sphere-writing-markdown/index.md";
-  slug: "04-astro-sphere-writing-markdown";
+"04-knowing-doing-gap/index.md": {
+	id: "04-knowing-doing-gap/index.md";
+  slug: "04-knowing-doing-gap";
   body: string;
   collection: "blog";
   data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
-"05-astro-sphere-writing-mdx/index.mdx": {
-	id: "05-astro-sphere-writing-mdx/index.mdx";
-  slug: "05-astro-sphere-writing-mdx";
-  body: string;
-  collection: "blog";
-  data: InferEntrySchema<"blog">
-} & { render(): Render[".mdx"] };
-"06-astro-sphere-social-links/index.md": {
-	id: "06-astro-sphere-social-links/index.md";
-  slug: "06-astro-sphere-social-links";
+"05-what's-failure-if-I-can-take/index.md": {
+	id: "05-what's-failure-if-I-can-take/index.md";
+  slug: "05-whats-failure-if-i-can-take";
   body: string;
   collection: "blog";
   data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
-"07-what-investors-won't-tell-you/index.md": {
-	id: "07-what-investors-won't-tell-you/index.md";
-  slug: "07-what-investors-wont-tell-you";
+"06-economic-cycle-and-tech/index.md": {
+	id: "06-economic-cycle-and-tech/index.md";
+  slug: "06-economic-cycle-and-tech";
   body: string;
   collection: "blog";
   data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
-"08-google-deepmind-blog-post-reclection/index.md": {
-	id: "08-google-deepmind-blog-post-reclection/index.md";
-  slug: "08-google-deepmind-blog-post-reclection";
-  body: string;
-  collection: "blog";
-  data: InferEntrySchema<"blog">
-} & { render(): Render[".md"] };
-"09-exercise-learning-and-brain-performance/index.md": {
-	id: "09-exercise-learning-and-brain-performance/index.md";
-  slug: "09-exercise-learning-and-brain-performance";
+"07-quantum-superposition-and-the-emergence-of-reality/index.md": {
+	id: "07-quantum-superposition-and-the-emergence-of-reality/index.md";
+  slug: "07-quantum-superposition-and-the-emergence-of-reality";
   body: string;
   collection: "blog";
   data: InferEntrySchema<"blog">
@@ -254,23 +240,23 @@ declare module 'astro:content' {
 } & { render(): Render[".md"] };
 };
 "work": {
-"IndexAI.md": {
-	id: "IndexAI.md";
-  slug: "indexai";
+"Community.md": {
+	id: "Community.md";
+  slug: "community";
   body: string;
   collection: "work";
   data: InferEntrySchema<"work">
 } & { render(): Render[".md"] };
-"IndexStudios.md": {
-	id: "IndexStudios.md";
-  slug: "indexstudios";
+"Index-AI.md": {
+	id: "Index-AI.md";
+  slug: "index-ai";
   body: string;
   collection: "work";
   data: InferEntrySchema<"work">
 } & { render(): Render[".md"] };
-"Intern.md": {
-	id: "Intern.md";
-  slug: "intern";
+"Index-Studios.md": {
+	id: "Index-Studios.md";
+  slug: "index-studios";
   body: string;
   collection: "work";
   data: InferEntrySchema<"work">
