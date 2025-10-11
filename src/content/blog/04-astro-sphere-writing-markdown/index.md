@@ -3,7 +3,6 @@ title: "Astro Sphere: Writing Markdown"
 summary: "Basic Markdown syntax that can be used when writing Markdown content in Astro Sphere."
 date: "Mar 13 2024"
 draft: false
-tags:
 
 ---
 

@@ -3,7 +3,6 @@ title: "Astro Sphere: Social media links"
 summary: "A quick tutorial on how to change, add or remove social media links"
 date: "Mar 11 2024"
 draft: false
-tags:
 
 
 ---
