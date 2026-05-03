@@ -1,15 +1,17 @@
 ---
 company: "AICamp"
-role: "Community lead"
-dateStart: "08/01/2023"
+role: "Regional Lead"
+dateStart: "10/01/2023"
 dateEnd: "Present"
 ---
 
--Lead organizer of AICamp’s AI & GenAI community in Melbourne.
--Curates and hosts in-depth technical meetups, featuring global and local experts in AI, LLMs, ML, and Data Science.
--Actively sources top-tier speakers, sponsors, and industry collaborators to elevate community impact.
--Builds bridges between startups, researchers, and enterprises to accelerate innovation and applied AI adoption.
+- Lead organizer of AICamp Melbourne and Brisbane, driving a technical AI community focused on applied systems, LLMs, and real-world deployment.
+- Curate and host deep-dive sessions on topics including GraphRAG, agentic systems, efficient model architectures (e.g., RWKV, distillation), and production AI pipelines.
+- Collaborate with global AI practitioners, founders, and researchers to translate cutting-edge research into practical engineering insights.
+- Build partnerships with industry (startups, enterprises, and infra providers) to support knowledge exchange and applied AI adoption.
+- Design events that bridge theory → systems → production, helping builders understand not just models, but end-to-end AI system design.
 
-- AICamp.
+- AI systems
 - Community building
-- Event hosting
+- Technical event hosting
+- Applied AI & GenAI
