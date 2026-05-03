@@ -1,19 +1,19 @@
 ---
 title: "Unimelb Reviewer"
-summary: "An Academic paper reviewer to help editors ease the work of reviewers"
+summary: "RAG-based system for automated academic paper evaluation"
 date: "June 1 2024"
 draft: false
 tags:
-- Node.js
+- LLM
 - RAG
-- Huggingface
+- NLP
+- Node.js
 ---
 
-Version 1:
-The "Academic Paper Reviewer System" is a cutting-edge project developed in collaboration with the University of Melbourne and IBM, aimed at revolutionizing the academic peer review process. This system automates the review of submitted publications, easing the workload on human reviewers and ensuring thorough, unbiased evaluations. The review process is divided into two main components: criteria-based reviews and machine learning-based assessments. The criteria-based review component employs specialized agents, each focusing on a specific aspect of the paper. For instance, the Grammar Agent scrutinizes the text for grammatical accuracy, suggesting necessary corrections and improvements, while the Innovation Level Agent assesses the novelty and originality of the research, identifying unique contributions and potential impacts. Other agents, such as the Citation Agent, Structure Agent, and Relevance Agent, evaluate citations' adequacy, the paper's logical coherence, and its relevance to the journal's scope, respectively. These agents work synergistically to provide comprehensive insights into each submitted paper.
+- Designed an AI-assisted academic review system to automate paper evaluation using structured criteria and LLM-based analysis.
+- Implemented a modular evaluation pipeline where different components assess aspects such as grammar, structure, novelty, citations, and relevance.
+- Integrated Retrieval-Augmented Generation (RAG) to generate context-aware feedback grounded in academic standards and reference materials.
+- Developed a hybrid approach combining rule-based checks with LLM outputs to improve consistency and reduce hallucination.
+- Built a prototype interface to support end-to-end review workflows, from paper input to structured feedback generation.
+- Collaborated with University of Melbourne and IBM teams to explore practical applications of LLMs in academic publishing.
 
-The second component of the system leverages machine learning to offer an overall assessment of the paper's quality. By training a model on a dataset of high-quality and low-quality publications, the system can effectively distinguish between well-written, impactful papers and those that may need significant revisions. This machine learning-based review considers various factors, including writing style, content depth, research methodology, and overall impact, ensuring a thorough and nuanced evaluation. The technology stack for this project includes advanced tools such as Retrieval-Augmented Generation (RAG) for contextually relevant feedback, IBM Watson for natural language processing and machine learning capabilities, and Hugging Face models like Microsoft's Phi-3-mini-128k-instruct for sophisticated language understanding and generation tasks. Core programming and development utilize Python, with frameworks like TensorFlow and PyTorch for model development and training.
-
-Supporting technologies such as Apache Kafka for real-time data streaming, MongoDB for data storage, and Docker/Kubernetes for scalable deployment ensure the system's robustness and efficiency. Web frameworks like Flask or Django will be used to build the application interface and backend services. This project promises significant benefits: it automates the review process, significantly reducing the time and effort required by human reviewers, and provides consistent, unbiased evaluations based on predefined criteria and trained models. The detailed and comprehensive feedback helps authors improve their work, maintaining high publication standards, and the system's scalability makes it suitable for journals and conferences of all sizes.
-
-Additionally, future work may explore the integration of Convex.dev's AI Town for advanced AI-driven interactions, further enhancing the system's capabilities and user experience. The "Academic Paper Reviewer System" represents a significant leap forward in academic publishing, leveraging cutting-edge technology to streamline and improve the peer review process. With the combined expertise of the University of Melbourne and IBM, this project aims to set a new standard in academic publication, ensuring efficient, consistent, and insightful reviews that benefit both authors and reviewers alike.

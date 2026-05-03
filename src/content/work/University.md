@@ -5,8 +5,14 @@ dateStart: "04/16/2017"
 dateEnd: "04/01/2019"
 ---
 
-Led project team in designing and deploying interactive touch tables and interactive screens provided advanced visualization capabilities, resulting in a 30% increase in student engagement and understanding of complex concepts. Coordinated and trained undergraduate students, resulting in streamlined operation of 15 interactive touch tables and 10 interactive screens, amplifying student engagement by 30% and fostering a profound understanding of complex subjects.
+- Led the design and deployment of interactive visualization systems, including large-scale touch tables and digital display interfaces for educational environments.
+- Developed and integrated software solutions to enable real-time interaction and visualization of complex data, improving student comprehension and engagement.
+- Managed deployment and operations of 15+ interactive touch tables and 10+ display systems, ensuring system reliability and usability across campus.
+- Trained and coordinated undergraduate team members to support system usage, maintenance, and user onboarding.
+- Increased student engagement and understanding of complex concepts by ~30% through improved human-computer interaction design.
 
-- Leadership.
-- Training and Coordination.
-- Project Managemen
+- Interactive systems
+- Software development
+- Human-computer interaction
+- Project leadership
+- Training & operations

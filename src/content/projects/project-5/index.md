@@ -1,28 +1,20 @@
 ---
 title: "Home Automation"
-summary: "Lorem ipsum dolor sit amet"
+summary: "Android-based system for controlling smart home devices via BLE and local Wi-Fi communication"
 date: "Aug 15 2018"
 draft: false
 tags:
-- React
 - Java
-- Node.js
-- PostgreSQL
-- Microsoft Azure
-demoUrl: https://astro-sphere-demo.vercel.app
+- Android
+- Bluetooth
+- Wi-Fi
+- IoT
+
 repoUrl: https://github.com/HannahYZhao/HomeAutomation
 ---
 
-"Home Automation" is an innovative mobile application designed to bring the convenience and efficiency of smart living directly to your fingertips. Built with the goal of simplifying daily routines, this app transforms your smartphone into a centralized control hub for all your smart home devices. Whether it's adjusting the thermostat, dimming the lights, or securing your doors, "Home Automation" offers a user-friendly interface that allows you to effortlessly manage your home's environment and security systems from anywhere, at any time. Designed for Android platforms, the app integrates seamlessly with a wide range of smart home technologies, ensuring compatibility and a harmonious smart home experience. With its intuitive design and robust functionality, "Home Automation" is not just an app, it's the key to a smarter, more connected, and energy-efficient home.
-
-GitHub Actions: for automating the software development process with continuous.
-
-GitHub: for hosting and version control collaboration.
-
-Bluetooth Low Energy (BLE): for short-range communication with smart devices, such as lighting, thermostats, and security systems, enabling seamless communication and control.
-
-Wi-Fi Direct: to directly connect to and communicate with compatible smart home devices without the need for an internet connection.
-
-Microsoft Azure: to enable remote access, data synchronization, and advanced analytics.
-
-Figma: for designing the UI/UX before the actual development begins.
+- Developed an Android application for controlling smart home devices using local communication protocols.
+- Implemented device interaction using Bluetooth Low Energy (BLE) for short-range control and Wi-Fi for extended connectivity within a local network.
+- Designed control flows for device discovery, connection, and command execution across both BLE and Wi-Fi communication channels.
+- Built the mobile application in Java, focusing on reliability and usability for real-time device interaction.
+- Explored early concepts in IoT systems, including trade-offs between local protocols (BLE vs Wi-Fi) for latency, range, and connectivity.
