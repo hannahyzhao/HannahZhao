@@ -7,7 +7,6 @@ tags:
 - LLM
 - RAG
 - NLP
-- Node.js
 ---
 
 - Designed an AI-assisted academic review system to automate paper evaluation using structured criteria and LLM-based analysis.

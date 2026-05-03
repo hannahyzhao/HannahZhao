@@ -4,10 +4,9 @@ summary: "Modular system for 3D medical imaging analysis and visualization"
 date: "Mar 18 2022"
 draft: false
 tags:
-- Python
-- Computer Vision
 - Data Visualization
-- VTK
+- HCI
+- Medical Imaging
 
 repoUrl: https://github.com/HannahYZhao/UnimelbTomographyScan
 ---

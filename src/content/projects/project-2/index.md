@@ -4,11 +4,8 @@ summary: "LLM-powered travel assistant with function-calling and tool integratio
 date: "Nov 17 2023"
 draft: false
 tags:
-- Python
 - LLM
-- OpenAI
-- Azure
-- Streamlit
+- AI Systems
 
 repoUrl: https://github.com/HannahYZhao/TravelWise
 ---
